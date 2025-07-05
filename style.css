@@ -1,0 +1,33 @@
+body {
+    font-family: sans-serif;
+    background: linear-gradient(135deg, #ffffff, #000000);
+    color: #fff;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .container {
+    margin-top: 100px;
+  }
+  
+  button {
+    background-color: #000000;
+    color: #ff0000;
+    padding: 12px 24px;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    font-size: 16px;
+    margin-top: 20px;
+  }
+  
+  button:hover {
+    background-color: #e6e6e6;
+  }
+  
+  #result {
+    margin-top: 30px;
+    font-size: 18px;
+    line-height: 1.5;
+  }
